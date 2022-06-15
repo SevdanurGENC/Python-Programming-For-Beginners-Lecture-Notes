@@ -6,8 +6,6 @@ In this repo, I have the course contents of Python Programming For Beginners tra
 
 Bu repoda, 25 - 29 Temmuz 2022 tarihleri arasında Academy Peak Bilgi Teknolojileri Eğitim ve Danışmanlık işbirliği ile Sigorta Bilgi ve Gözetim Merkezi'ne verilecek olan Yeni Başlayanlar İçin Python Programlama eğitiminin ders içerikleri bulunmaktadır.
 
-Eğitim İçeriği:
-
 # 1. Gün
 ## Python Nedir?
 - Python İçin Kullanılacak Editörler
