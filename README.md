@@ -8,11 +8,11 @@ Bu repoda, 25 - 29 Temmuz 2022 tarihleri arasında Academy Peak Bilgi Teknolojil
 
 Eğitim İçeriği:
 ##1. Gün
-Python Nedir?
-Python İçin Kullanılacak Editörler
-İlk Python Uygulaması
-Python Objeleri ve Veri Yapıları
-Pythonda Sayı Veri Tipleri
+# Python Nedir?
+- Python İçin Kullanılacak Editörler
+- İlk Python Uygulaması
+- Python Objeleri ve Veri Yapıları
+- Pythonda Sayı Veri Tipleri
 Pythonda Matematiksel Operatörler
 Pythonda Değişken Tanımlama
 Pythonda Veri Tipi Dönüşümleri
