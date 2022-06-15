@@ -8,7 +8,7 @@ Bu repoda, 25 - 29 Temmuz 2022 tarihleri arasında Academy Peak Bilgi Teknolojil
 
 Eğitim İçeriği:
 
-##1. Gün
+## 1. Gün
 # Python Nedir?
 - Python İçin Kullanılacak Editörler
 - İlk Python Uygulaması
