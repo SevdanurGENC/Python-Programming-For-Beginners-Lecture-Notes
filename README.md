@@ -22,6 +22,15 @@ Bu repoda, 25 - 29 Temmuz 2022 tarihleri arasında Academy Peak Bilgi Teknolojil
 - Karşılaştırma Operatörleri
 - Mantıksal Operatörler
 - Python'da Hata ve Hata Yönetimi
+- Koşullu Durum Blokları - If ve Else Blokları
+- Koşullu Durum Blokları - If - Elif - Else Blokları
+- Python'da For Döngüleri
+- Python'da While Döngüleri
+- Break ve Continue İfadeleri
+- Döngü Metotları - range(), enumerate(), zip()
+- Python'da Fonksiyon/Metot Kullanımı ve Parametreleri
+- Lambda Expressions, Map ve Filter
+- Fonksiyonların Kapsamı - Global ve Yerel Değişkenler
 
 # 2.Gün
 ## Python’da Listeleme Yapıları
@@ -32,16 +41,12 @@ Bu repoda, 25 - 29 Temmuz 2022 tarihleri arasında Academy Peak Bilgi Teknolojil
 - Python'da Value ve Referans Veri Tipleri
 
 # 3. Gün
-## Python'da Koşul İfadeler ve Döngü Yapıları
-- Koşullu Durum Blokları - If ve Else Blokları
-- Koşullu Durum Blokları - If - Elif - Else Blokları
-- Python'da For Döngüleri
-- Python'da While Döngüleri
-- Break ve Continue İfadeleri
-- Döngü Metotları - range(), enumerate(), zip()
-- Python'da Fonksiyon/Metot Kullanımı ve Parametreleri
-- Lambda Expressions, Map ve Filter
-- Fonksiyonların Kapsamı - Global ve Yerel Değişkenler
+## Python’da Dosya Yönetimi
+- Python'da Dosya Yönetimi
+- Python'da Dosya Açma ve Yazma
+- Python'da Dosya Okuma
+- Python'da Dosya Okuma Fonksiyonları
+- Python'da Dosyada Güncelleme Yapma
 
 # 4. Gün
 ## Python'da Nesne Tabanlı Programlama
@@ -54,15 +59,3 @@ Bu repoda, 25 - 29 Temmuz 2022 tarihleri arasında Academy Peak Bilgi Teknolojil
 - Hazır Modül Kullanımı - Math Modülü
 - Hazır Modül Kullanımı - Random Modülü
 - Kendi Modülümüzü Yazalım
-
-##5. Gün
-- Python'da Dosya Yönetimi
-- Python'da Dosya Açma ve Yazma
-- Python'da Dosya Okuma
-- Python'da Dosya Okuma Fonksiyonları
-- Python'da Dosyada Güncelleme Yapma
-
-
-
-
-
